@@ -1,0 +1,19 @@
+{
+    "jpn": {
+        "title": "タイトル",
+        "url": "URL",
+        "attached": "所属",
+        "date": "年月",
+        "period": "期間",
+        "phase": "担当フェーズ",
+        "feature": "特徴",
+        "comment": "コメント",
+        "environment": "開発環境",
+        "system": "システム",
+        "code": "ソースコード",
+        "class": "クラス名",
+        "theme": "テーマ",
+        "media": "メディア・媒体",
+        "software": "ソフトウェア"
+    }
+}
