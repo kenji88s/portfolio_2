@@ -1,8 +1,8 @@
 var config = {
     file: {
-        json1: 'https://gist.githubusercontent.com/kenji88s/866fcadb7e9aa5df8e0324e26f84cffa/raw/0a49a8661361bb249afc6f7567baa6609537527b/contents.json',
-        json2: 'https://gist.githubusercontent.com/kenji88s/866fcadb7e9aa5df8e0324e26f84cffa/raw/0a49a8661361bb249afc6f7567baa6609537527b/profile.json',
-        json3: 'https://gist.githubusercontent.com/kenji88s/866fcadb7e9aa5df8e0324e26f84cffa/raw/0a49a8661361bb249afc6f7567baa6609537527b/language.json',
+        json1: 'https://raw.githubusercontent.com/kenji88s/portfolio_2/main/json/contents.json',
+        json2: 'https://raw.githubusercontent.com/kenji88s/portfolio_2/main/json/profile.json',
+        json3: 'https://raw.githubusercontent.com/kenji88s/portfolio_2/main/json/language.json',
     },
     fileAlert: {
         string: 'ファイルが存在しない<span>もしくは接続不可です</span>',
